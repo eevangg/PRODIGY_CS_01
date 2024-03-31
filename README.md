@@ -1,4 +1,4 @@
-This program works as a **Caesar Cipher encoder/decoder**.
+This python program works as a **Caesar Cipher encoder/decoder**.
 
 **Steps**
 1. The user is prompted to select a mode, _encryption or decryption_.
