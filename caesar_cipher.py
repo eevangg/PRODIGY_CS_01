@@ -1,6 +1,6 @@
 # Author: Reginald Andre Evangelista
 # Position: Intern for Cyber Security
-# Company: Prodigy InfoSec
+# Company: Prodigy InfoTech
 
 def caesar_cipher(text, shift, mode):
     result = ''
